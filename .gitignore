@@ -1,0 +1,4 @@
+.DS_Store
+secrets.txt
+
+#Wild cards allow you to remove extendions Ex: *.txt
